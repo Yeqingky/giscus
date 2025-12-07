@@ -2,5 +2,6 @@
   "origins": [
     "https://blog.yeqing.net",
     "https://www.qzq.im"
-  ]
+  ],
+  "defaultCommentOrder": "newest"
 }
